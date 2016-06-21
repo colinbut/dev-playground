@@ -1,13 +1,15 @@
 package com.mycompany.spark.java;
 
+import static spark.Spark.get;
+
 /**
- * Hello world!
+ * Hello world Spark Java
  *
+ * @author colin
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public class App {
+
+    public static void main( String[] args ) {
+        get("/hello", (req, res) -> "Hello World");
     }
 }
