@@ -1,13 +1,9 @@
 /*
  * |-------------------------------------------------
- * | Copyright © 2016 Colin But. All rights reserved.
+ * | Copyright © 2016 Colin But. All rights reserved. 
  * |-------------------------------------------------
  */
 package com.mycompany.descriptiveprogramming;
 
-/**
- * @author colin
- */
-public class AppTest {
-
+public class Descriptive {
 }

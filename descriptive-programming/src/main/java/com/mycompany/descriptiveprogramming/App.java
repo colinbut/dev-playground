@@ -1,13 +1,13 @@
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2016 Colin But. All rights reserved.
+ * |-------------------------------------------------
+ */
 package com.mycompany.descriptiveprogramming;
 
 /**
- * Hello world!
- *
+ * @author colin
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public class App {
+
 }
