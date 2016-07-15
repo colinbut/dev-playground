@@ -8,6 +8,6 @@ package com.mycompany.junit5;
 /**
  * @author colin
  */
-public class AppTest {
+public class FirstJUnit5Test {
 
 }
