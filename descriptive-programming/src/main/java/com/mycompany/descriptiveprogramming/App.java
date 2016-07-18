@@ -10,4 +10,13 @@ package com.mycompany.descriptiveprogramming;
  */
 public class App {
 
+    /**
+     * Main method
+     * @param args arguments
+     */
+    public static void main(String[] args) {
+        Descriptive descriptive = new Descriptive();
+        descriptive.login("testUser", "secretPassword");
+    }
+
 }
