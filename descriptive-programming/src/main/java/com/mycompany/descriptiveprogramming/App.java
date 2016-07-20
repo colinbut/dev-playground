@@ -5,10 +5,24 @@
  */
 package com.mycompany.descriptiveprogramming;
 
+import java.util.Random;
+
 /**
  * @author colin
  */
 public class App {
+
+    /**
+     * An application method?
+     *
+     * @return a number 1 or -1 (failure)
+     */
+    public int appMethod() {
+        if (new Random().nextInt(100) % 2 == 0) {
+            return -1;
+        }
+        return 1;
+    }
 
     /**
      * Main method

@@ -5,8 +5,5 @@
  */
 package com.mycompany.unit;
 
-/**
- * @author colin
- */
-public class MovieServiceImplTest {
+public class MovieServiceImplUnitTest {
 }

@@ -5,5 +5,12 @@
  */
 package com.mycompany.unit;
 
-public class MovieServiceImplTest {
+/**
+ * @author colin
+ */
+public class MovieException extends Exception {
+
+    public MovieException(String msg) {
+        super(msg);
+    }
 }
