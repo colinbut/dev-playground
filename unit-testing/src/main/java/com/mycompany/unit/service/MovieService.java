@@ -3,7 +3,9 @@
  * | Copyright © 2016 Colin But. All rights reserved. 
  * |-------------------------------------------------
  */
-package com.mycompany.unit;
+package com.mycompany.unit.service;
+
+import com.mycompany.unit.model.Movie;
 
 import java.util.List;
 
