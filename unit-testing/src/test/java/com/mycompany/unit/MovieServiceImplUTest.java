@@ -5,5 +5,8 @@
  */
 package com.mycompany.unit;
 
+/**
+ * @author colin
+ */
 public class MovieServiceImplUTest {
 }
